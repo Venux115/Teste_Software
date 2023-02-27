@@ -1,0 +1,7 @@
+Aula 02:
+1.Criar conta no GitHub.
+2.Por foto no github.
+3.conta no JIRA
+4.Baixar e intalar JIRA;
+5.Baixar Git;
+6.Estudar Git;
