@@ -1,0 +1,9 @@
+Aula 04:
+Rotina de um dev junior:
+1°) Verificar se tem task aberta - Jira
+2°) Jogar task para " em andamento" - Jira
+3°) Vai pro VScode e executa:
+    a) bug: puxar os arquivos do github e arrumar o erro. Em seguida, devolver os arquivos para o github.(mudar status da task);
+    b) novo: codar no vscode o que está sendo pedido na task e ao terminar subir para o github. Muda o estado da task.
+
+O ciclo ó termina quando a equipe tester aprovar e jogar a task pra concluído.
